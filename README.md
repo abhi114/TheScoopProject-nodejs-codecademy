@@ -23,8 +23,6 @@ It is important to take time at the beginning of this project reading through th
 
 ## How To Begin
 
-To start, download the starting code for this project <a href="https://s3.amazonaws.com/codecademy-content/PRO/skill-paths/backend-javascript/projects/the-scoop/project-3-the-scoop-start.zip" target="_blank">here</a>. After downloading the zip folder, double click it to uncompress it and access the contents of this project.
-
 To start your server, run `npm install` and then `node server.js` from the root directory of this project. Every time you change **server.js**, you will have to restart your server before the changes will take effect. To do this press "control + c" in the bash terminal where your server is running (or close the terminal) to shut it down and then re-run `node server.js` to start it again. While your server is running, you will not be able to run commands in the bash terminal, so open a new terminal if you want to run other commands.
 
 To view your local version of the site, open **index.html** in Google Chrome.
