@@ -1,0 +1,45 @@
+comments:
+  '1':
+    id: 1
+    body: Hi
+    username: mdol
+    articleId: 2
+    upvotedBy: []
+    downvotedBy: []
+  '2': null
+users:
+  asdb: null
+  username: asdb
+  articleIds:
+    - 1
+  commentIds: []
+  asdas:
+    username: asdas
+    articleIds: []
+    commentIds: []
+  gfhgfgfg:
+    username: gfhgfgfg
+    articleIds:
+      - 2
+    commentIds: []
+articles:
+  '1':
+    id: 1
+    title: bad
+    url: 'http://www.google.com'
+    username: asdb
+    commentIds: []
+    upvotedBy: []
+    downvotedBy: []
+    comments: []
+  '2':
+    id: 2
+    title: weqwe
+    url: qweqweqwe
+    username: gfhgfgfg
+    commentIds: []
+    upvotedBy: []
+    downvotedBy:
+      - gfhgfgfg
+nextArticleId: 3
+nextCommentId: 3
